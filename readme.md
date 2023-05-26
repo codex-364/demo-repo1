@@ -19,3 +19,4 @@ testkey is private key which helps when we want to connect with github we show o
 ## to copy something in terminal use pbcopy< ./ssh/testkey.pub
 after adding key to ssh keys we want local git cli to know about the key we generated
 option  is arguement of git push which means location of a git repository and master is the branch that we want to push to  
+this is the end of tutorial 
